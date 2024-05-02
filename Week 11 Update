@@ -1,0 +1,40 @@
+What did you do last week?
+
+Spring Break last week, so I traveled to Arkansas to visit my family. I got to eat some tasty (but fairly unhealthy) foods and visit a couple of old friends as well. This was a much needed break from the daily grind of CSPB classes. I got to cook a nice meal for my mom's birthday and I helped her clean the house and clear out old clothing/items to take to their local donation center. I spent my evenings staring at the sunset over a peaceful lake next to their house, luckily before too many bugs (mosquitos and flies) come out in the summer. This break has reinvigorated and energized me.
+
+What do you plan to do this week?
+
+This week I'm continuing with Data Science Foundations by learning explicit and implicit rules and how to derive said rules from data analysis.
+
+Learned about creating expert systems to mimic decision-making processes of humans with domain expertise. Example: medical diagnoses, data analysis methods, and business methods. 
+
+Since logic has its limits, so we turn to algorithms like linear regression, decision trees, and other methods.
+
+We can also use Machine Learning and AI that use implicit rules that humans may not be able to describe easily on their own. Neural networks are powerful ML algorithms that spot differences between closely related data, but have disadvantages due to their narrow focus. Compared to explicit rules, the implicit rules of ML and AI are harder to understand and monitor.
+
+
+This is a fairly short chapter, so I continued into the next chapter to learn  about the Tools for Data Science: Apps, languages, AutoML, and Machine Learning.
+
+Spreadsheets are the most common application for working with data sets. SQL is another useful language for accessing data in databases by selecting data, specifying criteria. Can combine and reformat it in ways that work best for you. For data visualization, apps like Tableau and Qlik help to facilitate data integration and allow interactive data exploration. For data analysis, SPSS, JASP, and jamovi are apps specifically designed for point-and-click data analysis, allowing more people to approach the analysis without the use for difficult coding. 
+
+Languages: should you work in Python or in R?
+
+Python is the most popular language for Data Science and ML. It is a general purpose language and comparatively easy to learn. Python manages memory and large data sets better in its default setup.
+
+R was specifically developed for data analysis and is popular with scientists and researchers. R works natively with vectorized operations and does non-standard evaluation.
+
+Both Python and R can be adapted to do other things. It's best for data scientists to learn multiple languages: Python, R, SQL, Java, Julia, Scala, MATLAB, etc. It really all depends on what you're doing. 
+
+AutoML: 
+
+80% of any project is just the preparation of the data: converting categorical features, dealing with missing data, rescaling the data, or feature engineering, extraction, and selection central to building a ML model. When doing ML, adjusting the hyperparameters for the algorithms is key to performance and reproducibility, so there are several different methods for optimizing hyperparameters: grid search, random search, basein optimization, gradient based optimization, evolutionary optimization, and more. 
+
+Luckily lots of solutions for this complicated task exist: open source applications, such as Auto-sklearn, AutoKeras, AutoGluon, and Neural Network Intelligence, and packages that work with Python, R, and other languages, or proprietary solutions like specialized commercial applications that offer ML as a service (MLaaS): Microsoft Azure ML, Amazon SageMaker, Google Cloud AutoML, IBM Watson Machine Learning. Common tasks include Text to Speech, Chatbots, and Content Recognition. Advantages of MLaaS: analysis where data is stored (cloud-based storage), flexible computing requirements, drag-and-drop interfaces, all making the process more immediate and organized. 
+
+Are there any impediments in your way?
+
+Not that I can foresee. I don't have any big events coming up that will derail my learning, but might have some end of term projects coming up in other classes. 
+
+Reflection on the process you used last week, how can you make the process work better?
+
+Last week was a break week, but I've found through these weeks that taking typed up notes while going through these online courses really helps organize the information into a more concise and approachable manner.
