@@ -1,0 +1,21 @@
+What did you do last week?
+
+Learned about Biased programs such as Tay the Twitter Bot, COMPAS Sentencing, PredPol Crime Predictions, and Google Online Job ads, all of which ended up either racist, misogynist, or both.  luckily the errors are well known and were responsibly addressed. 
+
+Learned about Security issues like theft of data sets, algorithms, or output. Adversarial attacks like Evasion Attacks on implemented models, creating new examples to fool algorithms, and how updating the algorithms can avoid these attacks. Algorithms less susceptible to Evasion are more susceptible to Poisoning attacks that can embed mistakes in the algorithms themselves. These topics are important and pretty darn poignant considering the recent attack on United Health Groups that disrupted medical proceedings for tens, if not hundreds, of thousands of people here in the US, causing delays in medicine deliveries, delays in medical professionals receiving pay, and breaching loads of HIPA information that can be sold for a pretty penny on the dark web: $60 for medical records vs $15 for SSN or $3 for credit card. 
+
+Learned about Explainable AI like IBM's Watson OpenScale that has visualization and text description of variable importance and its Constrastive explanation, the minimum change in the data to change predicted outcome. 
+
+
+What do you plan to do this week?
+
+Continue with Data Science Foundations learning about Sources of Data. This chapter includes Data Prep, Labeling Data, In-house data, Open data, APIs, Scraping data, Creating data, passive collection, self-generated data, Data vendors, and data ethics. 
+
+
+Are there any impediments in your way?
+
+I had a Data Structures test that was taking a LOT of my bandwidth to study. Also, my kids were home for two days straight for snow days when I usually have a peaceful house to study. Definitely a bit more distracted with having to help them every 20-30 minutes with whatever it is they have going on. Often had to clean up messes that my 10 year old made. 
+
+Reflection on the process you used last week, how can you make the process work better?
+
+I think I need to get up from my desk and sort of mentally reset by going upstairs for a snack or walking around the block or doing some laundry or whatever semi-mindless task will let my brain rest for a bit and then come back to studying. I have diminishing returns if I just grind away for hours. 
