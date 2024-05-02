@@ -1,0 +1,31 @@
+What did you do last week?
+
+Learned all about the primary math skills necessary to excel as a Data Scientist: probability, algebra, calculus, etc. Not too much that I didn't already know, since I've been looking at Data Science as a career path for a while now, I knew what areas of math were most important. Still garnered a few nuggets of new information though, so I can't complain.
+What do you plan to do this week?
+
+This week I'm continuing with Data Science Foundations by learning about Supervised and Unsupervised learning, Descriptive analyses, Clustering, Dimensionality Reduction, and Anomaly detection. These are all fairly new to me, so I'm excited to learn about new ideas.
+
+Supervised learning:  classification into labeled categories and prediction of defined outcomes. Can be as simple as linear regression, but as complicated as a deep learning neural network. I'm quite interested in Neural networks. They seem to be very useful in research biology, where my heart and soul still resides. 
+
+Unsupervised learning: finding similarities without established labels or scores, like sorting fruit. Clustering, dimensionality reduction, and Anomaly detection.
+
+Reinforcement learning: algorithms that play Go, robots that run parkour, and cars that drive themselves. Algorithms get rewarded for better performance, learning how to do more and more of what it gets rewarded for.
+
+Descriptive analysis: Machines have perfect memory and can see all data at once, but are not very good at spotting more general patterns. Luckily, humans are good at finding patterns and making connections to outside situations, but only have so much bandwidth, so need to simplify data. 
+
+Visualize data; make a graph and look at it: histograms, bell curves, pos/neg skew, U shape. Compute univariate descriptive statistics; mean, mode, median, range, quartiles/IQR, variance, standard deviation, etc. Measures of association are connections between variables and data: correlation coefficients, regression analysis, odds/risk ratio. Data must be representative. Attention to effects of outliers, open-ended and undefined scores. 
+
+Clustering: marketing segments, exceptional students, medical groups, regions of a country, behavioral clusters, etc. K-dimensional space: locate each data point in a multidimensional space with k dimensions for k variables. Measure distance of each point to every other point; find clumps and gaps. Cluster analysis techniques: hierarchical clustering, K-means and group centroid models, density models, distribution models, linkage clustering models, etc.
+
+Dimensional reduction: reduce the number of variables and amount of data we are dealing with. Rationale: each variable has associated errors, but with too many variables, errors tend to cancel out. With fewer variables, we can reduce collinearity, improve speed, improve generalizability. Principal component analysis: combine multiple correlated variables into a single component. Factor analysis: find underlying common factor that gives rise to multiple indicators. Variations on methods: exploratory vs confirmatory, diff methods for diff levels of measurement, multiple algorithms to measure similarity and overlap.
+
+Anomaly detection: fraud detection, process failure, potential value. Outliers: cases that are distant from others or don't follow an expected pattern. Could be cases that match known anomalies. Use regression, Bayesian analysis, hierarchical clustering, neural networks, etc. Rare events: fraud is uncommon, which leads to unbalanced models. Difficult data: biometrics, multimedia, time-sensitive signatures. 
+
+
+Are there any impediments in your way?
+
+My wife is doing much better, so I'm not nearly as exhausted as last week, since we can share household responsibilities. I have a test coming up next week, so that might take a bit extra bandwidth than a normal week, but that's why I'm trying to get all my homework done asap so I can focus on studying for that test. 
+
+Reflection on the process you used last week, how can you make the process work better?
+
+I think I've settled into a nice rhythm, taking typed notes while watching the video lectures. I'm even doing better on the chapter quizzes too, so this method seems to be working well.
