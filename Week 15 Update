@@ -1,0 +1,57 @@
+What did you do last week?
+
+Learned about Supervised Learning with predictive models: Time series data, decomposition, ARIMA, classifying, feature selection and creation, aggregating models, validating models, etc. 
+
+What do you plan to do this week?
+
+This week I'm continuing with Data Science Foundations by learning about Generative Methods in Data Science.
+
+Generative Adversarial Networks (GANs): algorithm that produces novel output based on experience with training data.  Most common approach is a Deconvolutional Neural Network. 
+
+Discriminative Network: algorithm that attempts to distinguish generated output from nongenerated data. Usually a Convolutional Neural Network. 
+
+The "competition" between these two networks allows the generator to get better at creating data that fools the discriminator. Conversely, the discriminator also gets better at spotting generated data. 
+
+Use cases: upscaling images and video, creating images for fashion and design visualization, realistic animated movies, scientific simulations and molecular research. 
+
+Problems: fake image, video, audio, text, and data. Fake social media profiles and posts. fake phone calls, text message, etc. actually fake news. So with great promise comes great risk. 
+
+Reinforcement Learning: playing chess and go, self-driving cars, stock market trading, dosing for medication, dynamic treatment regimes, planning clinical trials, etc. 
+
+Setup: give rules and constraints, discrete steps in time to measure what it's done and the reward function, Q.
+
+Goals: create a policy map - take a particular action when in specific state. Exploration: trying lots of different behaviors to see how well they work. Exploitation: use things already learned to continue its progress.
+
+SARSA: State, Action, Reward, State, Action - iterative algorithm used in Markov Decision process.
+
+Initializing: can provide algorithm with specific examples; can give just the rules and value function.
+
+Acting on Data Science
+
+Interpretability: who makes decisions? who's using the results/insight?
+
+Algorithms - recommendation system that automatically puts something in front of people; mortgage application system that processes immediately while users still on the website. Machines are ones making decisions; they don't need to understand what they're working with and can create complex models and implement them directly.
+
+Humans - need to understand principles involved to reason from data to apply to new situations.
+
+Some results easy to interpret; some, not so much. Interpretability is critical to tell story and make sense of your findings. 
+
+Interpretable Methods - some algorithms easier to interpret: contingency tables, T-tests for A/B testing, correlations, linear regression, decision trees. some algorithms harder to interpret: regression with interactions, random forests (large collections of decision trees), support vector machines, neural networks. 
+
+Black box - hard to know exactly how data is processed, hard to predict how the input data will combine for the output.
+
+Glass Box - methods where you can see how data is processed, theoretically easy to predict outcomes from inputs. 
+
+Actionable insights - data (and data science) is for doing. What motivated the project? what questions did you want answered? Focus on things that are controllable; be practical, thinking about ROI; build up using sequential steps. 
+
+Recommendations for further study: programming in Python or R, learn to use Open data, learn how to build algorithms for Machine Learning and AI, data-driven decision making, business strategy, 
+
+Conferences: strata data conference, ODSC, marketing analytics and data science, silicon slopes tech summit, etc. etc. 
+
+Are there any impediments in your way?
+
+No impediments. I got my big projects done for my other classes, so I can focus on this class without issue. 
+
+Reflection on the process you used last week, how can you make the process work better?
+
+I think the process is working pretty well so far. I plan to consolidate and reorganize my notes now that I'm at the end of this course, not only as a review, but as a way to make referencing more efficient.
