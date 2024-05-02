@@ -1,0 +1,31 @@
+What did you do last week?
+
+This week's learning is all about Data. How to prepare and clean it up, which often makes up 80% of the work. Labeling data: learning about ImageNet and CAPTCHA, that use humans' manual inputs to develop a database that can be used for computer algorithms to better classify images. Some issues in labeling include having Limited data where training doesn't contain the full range of possibilities, leading to certain groups or categories being underrepresented or social judgments getting baked into your algorithm. 
+
+Learned about the concept of Dark Data: data that exists but isn't really used, supposedly 65% of data. Dark data can come from either having no tools to capture/use it, or having too much data and not enough analytics, the data could be unstructured or just missing/incomplete. 
+
+Learned about Open Data, which seems to be the growing trend or wave of the future. One of the most useful sources seems to be data.gov, with all sorts of topics: agriculture, climate, consumer, ecosystems, education, energy, finance, health, local gov't, manufacturing, maritime, ocean, public safety, and science research. Other sources for scientific data: ICSU's World Data System, Open Science Data Cloud, Center for Open Science, and Nature's Scientific Data. 
+
+Learned about APIs (application programming interface). Seems like these are the main way folks interact with most data and programming tasks. 
+
+Learned about scraping data and how it's one of the most important parts of data science, since unlike APIs, the data isn't created with its easy integration in mind. However, respecting privacy, copyrights, and other legal aspects is important to keep yourself from getting into serious trouble. Learned how to import from HTML into a google sheet, which seems super handy. 
+
+Passive collection of training data seems super useful, whether it's photo classification, autonomous cars sending their vast amounts of data to servers, health data from smart watches and other health apps, etc. Benefits of passive collection include getting enormous amounts of data quickly and data can be general or specific. Challenges: need to ensure adequate representation, check for shared meaning and limit cases. 
+
+Learned about "looping back" wherein algorithms engage themselves to create data. Looping back is important for machine learning algorithms. Reinforcement learning and generative adversarial networks seem very powerful, especially if combined. Benefits include generating massive amounts of data, with millions of variations and trials, creating scenarios that humans might not even consider, and this data helps create the rules that lead the algorithms moving forward. 
+
+Learned about the often despised Data Vendors that package and sell a variety of data. They often focus on specific groups, niche industries, or certain indicators about said groups. Vendors sell information like location data, technology used, search keywords, and web history. Examples: cookies, job postings, downloads, news articles, social media, product reviews, etc. Cons include aspects like cost, accuracy (or lack thereof), and privacy. 
+
+This leads into the area of Data Ethics. For research, things like voluntary participation, informed consent, anonymity, and confidentiality are important. EU's General Data Protection Regulation and the California Consumer Privacy Act have ushered in big changes to the way companies gather data. 
+
+What do you plan to do this week?
+
+Spring Break: takings some much-needed time off to visit my parents in Arkansas. Going to try to eat all the southern foods that I can't really get out here in Colorado:  BBQ from Memphis, fried catfish and hushpuppies, a different style of Mexican food (maybe Tex-mex?), Southern Soul Food like collard greens, gumbo, and fried okra, etc. 
+
+Are there any impediments in your way?
+
+I hope not. My flight is REALLY early though, so that won't be fun. I don't really WANT to wake up super early, but I gotta do what I gotta do. 
+
+Reflection on the process you used last week, how can you make the process work better?
+
+I tried to push all my work into just a few days early on this week instead of my normal schedule. I started the week with this coursework instead of leaving it until later in the week. I might start doing this more often, if my homework schedule will allow it. It felt nice to go ahead and get it off my weekly plate so it wasn't looming over me all week.
