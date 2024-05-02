@@ -1,0 +1,25 @@
+What did you do last week?
+
+Learned about the many options in a Data Scientists tool belt: apps, programming languages, machine learning, etc. Lots of good information that will definitely help with my future courses and career; details on my last update.
+
+What do you plan to do this week?
+
+This week I'm continuing with Data Science Foundations by learning about the mathematics used in data science: sampling and probability, algebra, calculus, optimization, Bayes' theorem, etc. 
+
+To have a valid and generalized result, representative sampling is key. Simple random sampling draws from a large population with equal probability for every case. To assess the generalizability of models and results, we use cross validation and hold out validation to make sure the model developed with one randomly selected data set will also fucntion well with others. Can never really get the exact same model or accuracy from one random subset to another, but hopefully they are close; for this, variation is key. New populations have to be considered and the model adjusted to include new data. Since models are inherently probabilistic and only approximations of reality, the results must be qualified. 
+
+Algebra allows data scientists to scale up their problems, dealing efficiently with many instances at once. It also allows us to generalize so we can deal with cases that vary in arbitrary ways, not just a few specific cases. Learned about how linear algebra deals mainly with matrices and how the outcomes, scores, regression coefficients, and errors for different cases are often arranged and notated. Proficiency in linear algebra allows us to know which algorithms work best with our data to answer our questions and know what to do when things don't go as expected and problems arise.
+
+Calculus is involved more for maximization and minimization, especially when trying to get the max revenue in sales situations. The video gives a pretty blatant example of how to find the right discount on price to maximize sales and improve revenue; this example improved revenue by 22.5%. Not too shabby, if you ask me. 
+
+The Combinatorial Explosion makes optimization difficult since combinations/permutations grow so quickly, the number of possibilities can be overwhelming. This necessitates optimization processes using things like Solver for Excel, calculus, or mathematical optimization through linear programming. Solver uses aspects like impact and constraints to help maximize income/revenue. 
+
+Bayes' theorem gives the posterior or after the data probability of a hypothesis as a function of the likelihood of the data given the hypothesis, the prior probability of the hypothesis, and the probability of getting the data we found. This can be useful in many industries, but especially medical diagnosis. 
+
+Are there any impediments in your way?
+
+The main impediment I see is that my wife has been bedridden all week with 2 bulging disks in her back. I'm having to do everything alone, so my bandwidth/time is pressed. I have to take our 2 kids to their medical appointments and extra curricular activities. All meals are on me, and I am having to serve my wife meals in bed and help her shower as well. So far, I'm doing okay, but it's pretty darn exhausting. I honestly don't see how single parents do it.
+
+Reflection on the process you used last week, how can you make the process work better?
+
+I feel like I have a solid rhythm down and can allocate the required time for this class each week without neglecting either this class or any other responsibilities. Compared to earlier in the semester, this time management has greatly improved. Probably due to the Time management course I took on LinkedIn Learning for one of the assignments for this class
