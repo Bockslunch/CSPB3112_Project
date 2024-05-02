@@ -1,0 +1,32 @@
+What did you do last week?
+
+Learned briefly about Supervised learning (mainly this week) and mainly learned about Unsupervised learning, descriptive analysis, clustering, dimensionality reduction, and anomaly detection. 
+What do you plan to do this week?
+
+This week I'm continuing with Data Science Foundations by learning about Supervised learning.
+
+
+Supervised learning with predictive models uses relevant past data, models the outcome, tests the model against new data to validate it, and applies validated models to new data. Predictive analytics are useful in areas like predicting whether folks will develop an illness or recovery from said illness, whether investments will payoff for you, or building recommendation engines to suggest products to online shoppers. Predicting future events uses presently available data to predict the future; using past financial data to predict future outcomes or past medical records to predict future health. Can also use prediction to refer to alternative events; approximating how a human would perform the same task. It can also infer what additional information might reveal. Analysis categories: classification methods, decision trees, neural networks, and regression analysis. Regression models are flexible with with data, have flexible models, and are easy to interpret. 
+
+Time series data: plot a line; make a graph of changes over time, connect the points to make a clear line. Autocorrelation; every value is influenced by the previous values, looking for consistency of change. Try to find a mathematical function for the line; may be cyclical or it may even be multiple functions at once. linear growth, exponential growth, logarithmic trends, sigmoidal growth, sinusoidal, etc. 
+
+Decomposition: take a trend over time and break it down into several elements; overall trend, seasonal/cyclical trends, random noise. 
+
+ARIMA: autoregressive integrated moving average model - later values predicted by earlier, lagged values, absolute values replaced by difference values, regression errors are linear combinations of current and previous values. ARIMA has some variations. Neural Networks: recurrent neural network (RNN), Multilayer perceptrons (MLP); input layer, hidden layers, and output layer using nonlinear activation functions.
+
+Classifying: photos, spam emails, words in speech, topics of news articles, positivity of social media posts, fraudulent charges, soon-to-be-parents, patients with responsive conditions, machines that need maintenance, fastest route to destination, genre of songs, best investment, etc. Locate the case in K-dimensional space, compare labels on nearby data, assign new case to same category as nearby data. K-means: assign case to closest of k-centroids (mean in multidimensional space). K-nearest neighbors: use most common category of k-cases closest to new case. Once classified, evaluate performance: total accuracy, sensitivity, specificity. Bayes' theorem allows combination of data about sensitivity, specificity, and base rates. 
+
+Feature selection and creation: correlation, stepwise regression, lasso and ridge regression, variable importance, etc. Selecting variables: is it something you can control?, return on investment (ROI), sensible. 
+
+Aggregating models: underfitting (bias) - model is too simple and loses key detail in data, doesn't generalize well. Overfitting (variance) model is too complicated and matches training data too closely, also doesn't generalize well. Bagging (bootstrap aggregating) pull multiple random samples, build several iterations, combine or average estimates. Boosting: sequential process; model built to classify cases, second model built to classify cases 1st model got wrong, rinse/repeat. Stacking: use several different algorithms, then use higher level algorithm to build weighted model that uses predictions of first level models to make overall prediction. Benefits: multiple perspectives, find signal amid the noise, more stable, more generalizable, so can find optimal solution to bias-variance trade-off. 
+
+Validating Models: important to check your work; important to see how your model works with data that you didn't use to build the model. Take large data set, split it up: training data where you build model, cross-validation where you take dataset that you're training with and split it up into 5 different parts, using 4 parts to model what might be happening with 5th one and rotate through. Holdout validation using the final partition of data that never got tested with training or cross-validation, then test it on the holdout data. "in the bag" data used to build model. In bagging algorithms or bootstrapped aggregates these are randomly selected cases; often used with random forest models. "out of bag" data not randomly selected when building model; for each data point, check predictions of all trees that don't use that point, calculate OOB error. 
+
+
+Are there any impediments in your way?
+
+Not that I can foresee. I have some big end-of-term projects due late next week (May 2-3), but I should be able to focus solely on this course for at least a day, if not two, so I don't think I will hit any speedbumps this week. 
+
+Reflection on the process you used last week, how can you make the process work better?
+
+Again, I think I've figured out the best methods for this type of learning, taking typed notes as I go along in the lecture videos. It only took me 11 weeks to get the hang of it and optimize my learning experience! Better late than never.
